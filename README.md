@@ -31,12 +31,12 @@ This repository contains all the HTML files I created while learning and complet
 - Learn from the examples or use them as templates
 
 ## 🙋‍♂️ Created By
-**👨‍💻 Harsh Mishra**
-Self-taught web developer & learner on a mission to master frontend development.
+**👨‍💻 Harsh Mishra** <br>
+Self-taught web developer & learner on a mission to master frontend development. <br>
 
-**Feel free to connect or check out more of my work!**
-**GitHub:** https://github.com/erharshmishra
-**LinkedIn:** https://www.linkedin.com/in/harshmishra8103/
+**Feel free to connect or check out more of my work!** <br>
+**GitHub:** https://github.com/erharshmishra <br>
+**LinkedIn:** https://www.linkedin.com/in/harshmishra8103/ <br>
 
 
 ## 📝 Notes
